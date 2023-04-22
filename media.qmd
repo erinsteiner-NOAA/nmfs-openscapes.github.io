@@ -21,13 +21,15 @@ bibliography: references.bib
 
 [NMFS Science Board](https://docs.google.com/presentation/d/1ck1bZwjdbez-niH3yjC675a7xbsIDJ4xxJ6GLekZsno/edit#slide=id.g1138e626848_0_861), Holmes, Lowndes. June 8, 2022.
 
+-   Excerpt: [How Open science training helps NMFS Teams](https://docs.google.com/presentation/d/1dE0KeVsK1SaW-QxnSGiqkPpPgFwKmRKn5ZjW89822Uc/edit#slide=id.g12c312cf4bd_0_1)
+
 [SEFSC Leadership](https://docs.google.com/presentation/d/1xMsRnszr3E2tcrWpKzDCEvL7s-3-7-8NSbN0Xa1Cijo/edit#slide=id.g1138e626848_0_861), Holmes, Rios, Rule, Lowndes. March 31, 2022.
 
 [NWFSC Leadership](https://docs.google.com/presentation/d/1qyW3KcwxiKwBffjsJ-fMF0snG99ahqZAnfq2xDSRPdc/edit#slide=id.g1138e626848_0_861), Holmes, Ward, Scalliet, Lowndes. February 14, 2022.
 
 ## Publications
 
-Bastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri, Sarah Gaichas, Sean Lucey, et al. 2021. \"Improving the IEA Approach Using Principles of Open Data Science.\" Coastal Management 49 (1): 72--89. <https://doi.org/10.1080/08920753.2021.1846155>.
+Bastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri, Sarah Gaichas, Sean Lucey, et al. 2021. "Improving the IEA Approach Using Principles of Open Data Science." Coastal Management 49 (1): 72--89. <https://doi.org/10.1080/08920753.2021.1846155>.
 
 ## Blog Posts
 
