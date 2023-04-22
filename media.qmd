@@ -35,14 +35,11 @@ Bastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri,
 
 ## Blog Posts
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [
-IMPACTS OF OPENSCAPES TRAINING ON OPEN SCIENCE MOVEMENT BUILDING INSIDE NOAA'S ALASKA FISHERIES SCIENCE CENTER](https://www.openscapes.org/blog/2023/02/16/2022-noaa-afsc-fall/) - February 16, 2023: EMILY MARKOWITZ, MARGARET SIPLE, JOSH LONDON
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [IMPACTS OF OPENSCAPES TRAINING ON OPEN SCIENCE MOVEMENT BUILDING INSIDE NOAA'S ALASKA FISHERIES SCIENCE CENTER](https://www.openscapes.org/blog/2023/02/16/2022-noaa-afsc-fall/) - February 16, 2023: EMILY MARKOWITZ, MARGARET SIPLE, JOSH LONDON
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [
-NATIONWIDE OPENSCAPES TRAINING AT NOAA FISHERIES SCIENCE CENTERS: FACILITATING COLLABORATION, SKILL-SHARING, AND OPEN SCIENCE](https://www.openscapes.org/blog/2023/01/24/2022-noaa-nmfs-fall/) - January 24, 2023: MOLLY STEVENS, ADYAN RIOS, AMANDA BRADFORD, KEVIN STIERHOFF, JULIETTE VERSTAEN, ELI HOLMES, EMILY MARKOWITZ, MARGARET SIPLE, JOSH LONDON, AND 150 NOAA FISHERIES OPENSCAPES CHAMPIONS
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [NATIONWIDE OPENSCAPES TRAINING AT NOAA FISHERIES SCIENCE CENTERS: FACILITATING COLLABORATION, SKILL-SHARING, AND OPEN SCIENCE](https://www.openscapes.org/blog/2023/01/24/2022-noaa-nmfs-fall/) - January 24, 2023: MOLLY STEVENS, ADYAN RIOS, AMANDA BRADFORD, KEVIN STIERHOFF, JULIETTE VERSTAEN, ELI HOLMES, EMILY MARKOWITZ, MARGARET SIPLE, JOSH LONDON, AND 150 NOAA FISHERIES OPENSCAPES CHAMPIONS
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [
-Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science) - December 7, 2022: Burger. (cross-posted at [Openscapes.org](https://www.openscapes.org/blog/2022/12/09/case-study-swfsc-sael/))
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science) - December 7, 2022: Burger. (cross-posted at [Openscapes.org](https://www.openscapes.org/blog/2022/12/09/case-study-swfsc-sael/))
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Aligning mission around collaborative practices, with researchers, supervisors, and IT](https://www.openscapes.org/blog/2022/09/30/2022-sefsc-summer/) - September 30, 2022: Rios, Stevens, Rule.
 

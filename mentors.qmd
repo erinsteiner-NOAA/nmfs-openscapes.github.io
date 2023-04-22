@@ -21,10 +21,51 @@ Center-Level Mentor group
 * PIFSC: Amanda Bradford, Juliette Verstaen
 * SEFSC: Adyan Rios, Molly Stevens
 * SWFSC: Kevin Stierhoff
-
+* OST: Christine Stawitz
+* OST: Kathryn Doering
+* OST: Erin Steiner
 
 
 # Mentor Cohort Activities
+
+## 2023
+
+We have proposed a 3-year collaboration with NOAA Fisheries modeled after the NASA Openscapes Framework that would start in July 2023. Below are Openscapes' past, ongoing, and planned activities to support inclusive open practices in research at NOAA Fisheries.
+
+### October-December
+
+Through facilitation and practical training for mentoring, teaching, and coaching, the mentors will build skills and strategies to support colleagues with diverse comfort levels with software and coding, while also strengthening relationships across centers/offices. Through this, mentors will identify and co-create on common resources and activities – such as code or databases for identical tasks or community developed standard practices – so there is less reinventing at each center. 
+
+We will meet remotely twice monthly and also collaborate asynchronously (e.g. Google Chat, GitHub). Mentors will also focus on teaching NMFS colleagues through Champions cohorts and Community Skills Workshops (see section 2), with support from Openscapes staff. Openscapes will manage any experimental software licenses (e.g. RStudio Cloud) to support Mentors interested in collaborating, teaching, and experimenting with big data on the cloud.
+
+#### Proposed timeline & topics  
+
+- **Dates: Biweekly starting October 17, 2023** 
+- **Times: 10:00 - 11:30am PT / 1:00 - 2:30 pm ET**
+- **Location: Remotely, via Google Meet**
+
+Agendas are accessible to Cohort participants in our Cohort Google Folder (link upcoming); they are also an archive of our live notetaking. Seaside Chat topics are to reflect with your other center mentors in-between cross-center cohort calls 
+
+Date | Cohort Call Topics          |       Seaside Chats topics
+----| ----------------------|--------------------------------
+10/17 | 1. Openscapes mindset: better science for future us | Reflect together on what needs/challenges are common
+10/31 | 2. Common needs; documentation | Prepare for GitHub & Quarto Clinics
+11/14 | 3. GitHub & Quarto Clinics: project management & automated reports | Decide what mentor cohort will work on and what you'll work on
+11/28 | 4. Team culture and data strategies for future us | Prepare for Champions cohorts in Feb-March
+12/12 | 5. Open communities and coding strategies for future us | Coordinate Champions cohorts for Feb-March
+
+
+### July-September
+
+This will be a kick-off, engagement, planning, and coordinating stage. We will use our standing bi-weekly meetings we have with the NMFS mentors to plan the year and identify strategic priorities and engagement.
+
+We will reach out to center/office managers with a welcoming description of our project and ask them to share a nomination form with people in their group who are working with Open Science practices and interested in peer-teaching and collaborating within NMFS. Opting in is a critical first investment from both managers and staff; this work will have clear expectations (e.g. 8 hours/month) and be in alignment with their jobs. Mentors will initially build from the pool of NMFS staff that have participated in Openscapes Champions cohorts in 2020-2022. We aim for 3 total mentors from each science center and regional office each year. 
+
+We will also start identifying cross-center roadblocks that mentors can collaborate on throughout the next years. Previous roadblocks the NMFS mentor community is now involved in at the policy level include whether and how researchers at different science centers can use GitHub.
+
+### January-May
+
+Our bi-weekly meetings now include the [NASA Openscapes Mentors](https://nasa-openscapes.github.io/mentors.html) for the first time. The NASA mentors join our NMFS Openscapes mentor group that meet already [California WaterBoards/Cal EPA mentors](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) and [Pathways to Open Science mentors](https://openscapes.github.io/pathways-to-open-science/). From January-May we are learning coaching skills with Tara Robertson, a DEI consultant and leadership coach who has [worked with Openscapes since 2021](https://www.openscapes.org/blog/2021/05/27/tara-robertson/).
 
 ## 2022
 

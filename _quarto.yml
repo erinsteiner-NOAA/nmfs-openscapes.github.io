@@ -50,7 +50,7 @@ website:
           - cohorts/FDD-fall2021.md
           - cohorts/NEFSC-spr2020.md
       - href: mentors.qmd
-        text: Mentors
+        text: Mentors Community
       - href: media.qmd
         text: Presentations and Media
       - contact.qmd
