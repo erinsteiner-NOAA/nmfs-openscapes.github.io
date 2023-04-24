@@ -28,7 +28,7 @@ Center-Level Mentor group
 
 ## 2023
 
-We have proposed a 3-year collaboration with NOAA Fisheries modeled after the [NASA Openscapes Framework](https://openscapes.github.io/approach-guide/mentors-framework) that would start in July 2023. Continuity is important for  community building and skillbuilding and we have been supporting mentors in early 2023 to maintain momentum.
+We have proposed a 3-year collaboration with NOAA Fisheries modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework) that would start in July 2023. Continuity is important for  community building and skillbuilding and we have been supporting mentors in early 2023 to maintain momentum.   
 
 Below are Openscapes' past, ongoing, and planned activities to support inclusive open practices in research at NOAA Fisheries.
 
