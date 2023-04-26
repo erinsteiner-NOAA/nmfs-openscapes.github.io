@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.340">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -70,11 +70,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">NMFS Openscapes Mentors</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./mentors.html">Mentors Community</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -82,98 +87,112 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./images/logo-transparent-crop.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://openscapes.org" title="Openscapes.org" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/nmfs-openscapes" title="NMFS Openscapes" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/openscapes" title="Openscapes Twitter" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+    <a href="https://openscapes.org" title="Openscapes.org" class="quarto-navigation-tool px-1" aria-label="Openscapes.org"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/nmfs-openscapes" title="NMFS Openscapes" class="quarto-navigation-tool px-1" aria-label="NMFS Openscapes"><i class="bi bi-github"></i></a>
+    <a href="https://twitter.com/openscapes" title="Openscapes Twitter" class="quarto-navigation-tool px-1" aria-label="Openscapes Twitter"><i class="bi bi-twitter"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Home</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about-openscapes.html" class="sidebar-item-text sidebar-link">About Openscapes</a>
+  <a href="./about-openscapes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About Openscapes</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about-nmfs-openscapes.html" class="sidebar-item-text sidebar-link">About NMFS Openscapes</a>
+  <a href="./about-nmfs-openscapes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About NMFS Openscapes</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./cohorts/index.html" class="sidebar-item-text sidebar-link">Champions Cohorts</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+            <a href="./cohorts/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Champions Cohorts</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cohorts/NMFS-fall2022.html" class="sidebar-item-text sidebar-link">Fall 2022 NMFS</a>
+  <a href="./cohorts/NMFS-fall2022.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fall 2022 NMFS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cohorts/SEFSC-sum2022.html" class="sidebar-item-text sidebar-link">Summer 2022 SEFSC</a>
+  <a href="./cohorts/SEFSC-sum2022.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Summer 2022 SEFSC</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cohorts/AFSC-win2021.html" class="sidebar-item-text sidebar-link">Winter 2021-2022 AFSC</a>
+  <a href="./cohorts/AFSC-win2021.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Winter 2021-2022 AFSC</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cohorts/NMFS-fall2021.html" class="sidebar-item-text sidebar-link">Fall 2021 NMFS</a>
+  <a href="./cohorts/NMFS-fall2021.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fall 2021 NMFS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cohorts/FDD-fall2021.html" class="sidebar-item-text sidebar-link">Fall 2021 FDD</a>
+  <a href="./cohorts/FDD-fall2021.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fall 2021 FDD</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./cohorts/NEFSC-spr2020.html" class="sidebar-item-text sidebar-link">Spring 2020 NEFSC</a>
+  <a href="./cohorts/NEFSC-spr2020.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Spring 2020 NEFSC</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mentors.html" class="sidebar-item-text sidebar-link active">Mentors Community</a>
+  <a href="./mentors.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Mentors Community</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./media.html" class="sidebar-item-text sidebar-link">Presentations and Media</a>
+  <a href="./media.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Presentations and Media</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./contact.html" class="sidebar-item-text sidebar-link">Contact</a>
+  <a href="./contact.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contact</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -185,9 +204,9 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">2023</a>
   <ul class="collapse">
-  <li><a href="#october-december" id="toc-october-december" class="nav-link" data-scroll-target="#october-december">October-December</a></li>
-  <li><a href="#july-september" id="toc-july-september" class="nav-link" data-scroll-target="#july-september">July-September</a></li>
-  <li><a href="#january-may" id="toc-january-may" class="nav-link" data-scroll-target="#january-may">January-May</a></li>
+  <li><a href="#october-december-2023-nmfs-mentors-cohort" id="toc-october-december-2023-nmfs-mentors-cohort" class="nav-link" data-scroll-target="#october-december-2023-nmfs-mentors-cohort">October-December 2023: NMFS Mentors Cohort!</a></li>
+  <li><a href="#july-september-2023-engagement-planning-and-coordinating" id="toc-july-september-2023-engagement-planning-and-coordinating" class="nav-link" data-scroll-target="#july-september-2023-engagement-planning-and-coordinating">July-September 2023: Engagement, planning, and coordinating</a></li>
+  <li><a href="#january-june-2023" id="toc-january-june-2023" class="nav-link" data-scroll-target="#january-june-2023">January-June 2023</a></li>
   </ul></li>
   <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2022</a>
   <ul class="collapse">
@@ -204,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">NMFS Openscapes Mentors</h1>
+<h1 class="title">NMFS Openscapes Mentors</h1>
 </div>
 
 
@@ -245,8 +264,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="section">2023</h2>
 <p>We have proposed a 3-year collaboration with NOAA Fisheries modeled after the <a href="https://openscapes.github.io/approach-guide/mentors-framework">NASA Openscapes Framework approach</a> that would start in July 2023. Continuity is important for community building and skillbuilding and we have been supporting mentors in early 2023 to maintain momentum.</p>
 <p>Below are Openscapes’ past, ongoing, and planned activities to support inclusive open practices in research at NOAA Fisheries.</p>
-<section id="october-december" class="level3">
-<h3 class="anchored" data-anchor-id="october-december">October-December</h3>
+<section id="october-december-2023-nmfs-mentors-cohort" class="level3">
+<h3 class="anchored" data-anchor-id="october-december-2023-nmfs-mentors-cohort">October-December 2023: NMFS Mentors Cohort!</h3>
 <p>Through facilitation and practical training for mentoring, teaching, and coaching, Openscapes will help NMFS mentors strengthen skills and strategies to support colleagues with diverse comfort levels with software and coding, while also strengthening relationships across centers/offices. Through this, mentors will identify and co-create on common resources and activities – such as code or databases for identical tasks or community developed standard practices – so there is less reinventing at each center.</p>
 <p>We will meet remotely twice monthly and also collaborate asynchronously (e.g.&nbsp;Google Chat, GitHub). Mentors will also focus on teaching NMFS colleagues through Champions cohorts and Community Skills Workshops, with support from Openscapes staff.</p>
 <section id="proposed-timeline-topics" class="level4">
@@ -300,14 +319,14 @@ ul.task-list li input[type="checkbox"] {
 </table>
 </section>
 </section>
-<section id="july-september" class="level3">
-<h3 class="anchored" data-anchor-id="july-september">July-September</h3>
+<section id="july-september-2023-engagement-planning-and-coordinating" class="level3">
+<h3 class="anchored" data-anchor-id="july-september-2023-engagement-planning-and-coordinating">July-September 2023: Engagement, planning, and coordinating</h3>
 <p>This will be a kick-off, engagement, planning, and coordinating stage. We will use our standing bi-weekly meetings we have with the NMFS mentors to plan the year and identify strategic priorities and engagement.</p>
 <p>We will reach out to center/office managers with a welcoming description of our project and ask them to share a nomination form with people in their group who are working with Open Science practices and interested in peer-teaching and collaborating within NMFS. Opting in is a critical first investment from both managers and staff; this work will have clear expectations (e.g.&nbsp;8 hours/month) and be in alignment with their jobs. Mentors will initially build from the pool of NMFS staff that have participated in Openscapes Champions cohorts in 2020-2022. We aim for 3 total mentors from each science center and regional office each year.</p>
 <p>We will also start identifying cross-center roadblocks that mentors can collaborate on throughout the next years.</p>
 </section>
-<section id="january-may" class="level3">
-<h3 class="anchored" data-anchor-id="january-may">January-May</h3>
+<section id="january-june-2023" class="level3">
+<h3 class="anchored" data-anchor-id="january-june-2023">January-June 2023</h3>
 <p>From January-May through our bi-weekly meetings we are learning coaching skills with Tara Robertson, a DEI consultant and leadership coach who has <a href="https://www.openscapes.org/blog/2021/05/27/tara-robertson/">worked with Openscapes since 2021</a>. We are learning valuable coaching skills - how to ask open-ended questions, how to listen - that make us better equipped as mentors, teachers, and leaders. When listening as a coach, we’re trying to help the other person define their problem and find their solution, outside of our expertise. This is different from mentoring, when we do have an answer within our expertise. Developing these coach listening skills, what questions to ask, and when to use mentoring vs coaching skills, is the focus of our sessions; we are practicing coaching skills together to tackle common challenges and skill-build together.</p>
 <p>Our mentor-coach sessions are cross-government, and include Openscapes mentors working within and across their own institutions.</p>
 <ul>
@@ -481,9 +500,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -548,6 +581,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -603,6 +722,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© CC-By Openscapes, 2022</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
