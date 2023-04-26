@@ -19,7 +19,7 @@ NMFS Openscapes is a multi-year colloboration between NOAA Fisheries science cen
 
 [Openscapes](https://www.openscapes.org/) champions open practices in environmental science to help uncover data-driven solutions faster. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. Please connect with us on Twitter [**\@openscapes**](https://twitter.com/openscapes) or join [**our newsletter**](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform).
 
-## NMFS Openscapes FY24 {-}
+<h2>NMFS Openscapes FY24</h2>
 
 **October-December 2023**: Openscapes Mentors FY24 Program Kick-off! See [mentor page](https://nmfs-openscapes.github.io/mentors.html#october-december-2023-nmfs-mentors-cohort) for details.
 
