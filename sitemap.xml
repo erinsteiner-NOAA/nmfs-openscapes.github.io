@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-openscapes.github.io/index.html</loc>
-    <lastmod>2023-04-26T16:08:28.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/AFSC-win2021.html</loc>
-    <lastmod>2023-04-26T16:08:29.708Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/NMFS-fall2021.html</loc>
-    <lastmod>2023-04-26T16:08:30.240Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/index.html</loc>
-    <lastmod>2023-04-26T16:08:30.688Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/NEFSC-spr2020.html</loc>
-    <lastmod>2023-04-26T16:08:31.112Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/FDD-fall2021.html</loc>
-    <lastmod>2023-04-26T16:08:31.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/SEFSC-sum2022.html</loc>
-    <lastmod>2023-04-26T16:08:32.068Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/NWFSC-spr2021.html</loc>
-    <lastmod>2023-04-26T16:08:32.420Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/cohorts/NMFS-fall2022.html</loc>
-    <lastmod>2023-04-26T16:08:32.812Z</lastmod>
-  </url>
-  <url>
     <loc>https://nmfs-openscapes.github.io/about-nmfs-openscapes.html</loc>
-    <lastmod>2023-04-26T16:08:33.312Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2023-04-26T16:08:33.792Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-openscapes.github.io/contact.html</loc>
-    <lastmod>2023-04-26T16:08:34.152Z</lastmod>
+    <lastmod>2023-04-26T16:12:48.112Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/mentors.html</loc>
-    <lastmod>2023-04-26T16:08:34.728Z</lastmod>
+    <lastmod>2023-04-26T16:12:50.336Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/media.html</loc>
-    <lastmod>2023-04-26T16:08:35.220Z</lastmod>
+    <lastmod>2023-04-26T16:12:50.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/contact.html</loc>
+    <lastmod>2023-04-26T16:12:51.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2023-04-26T16:12:51.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/index.html</loc>
+    <lastmod>2023-04-26T16:12:51.916Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/about-openscapes.html</loc>
-    <lastmod>2023-04-26T16:08:35.652Z</lastmod>
+    <lastmod>2023-04-26T16:12:52.288Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/FDD-fall2021.html</loc>
+    <lastmod>2023-04-26T16:12:52.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/SEFSC-sum2022.html</loc>
+    <lastmod>2023-04-26T16:12:53.152Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/AFSC-win2021.html</loc>
+    <lastmod>2023-04-26T16:12:53.712Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/NMFS-fall2021.html</loc>
+    <lastmod>2023-04-26T16:12:54.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/NMFS-fall2022.html</loc>
+    <lastmod>2023-04-26T16:12:54.584Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/index.html</loc>
+    <lastmod>2023-04-26T16:12:54.976Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/NWFSC-spr2021.html</loc>
+    <lastmod>2023-04-26T16:12:55.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/cohorts/NEFSC-spr2020.html</loc>
+    <lastmod>2023-04-26T16:12:55.676Z</lastmod>
   </url>
 </urlset>
