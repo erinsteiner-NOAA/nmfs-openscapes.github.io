@@ -26,7 +26,7 @@ NMFS Openscapes is a multi-year colloboration between NOAA Fisheries science cen
 **January-March 2024**: Openscapes Champions cohorts. We are planning three simultaneous cohorts at science centers and regional offices much like in fall 2022.
 
 
-## NMFS Openscapes FY23 {-}
+## NMFS Openscapes FY23 {.minimal}
 
 **July-September 2023**: Kick-off, engagement, planning, and coordinating for FY24. Bi-weekly meetings with the [FY23 NMFS mentors](https://nmfs-openscapes.github.io/mentors.html#mentors) to plan the year and identify strategic priorities and engagement. 
 
