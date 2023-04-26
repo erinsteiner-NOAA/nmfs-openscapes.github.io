@@ -2,6 +2,7 @@
 title: "NMFS Openscapes"
 subtitle: "Training in reproducible science for NOAA Fisheries"
 page-layout: full
+toc: false
 ---
 
 <style>
