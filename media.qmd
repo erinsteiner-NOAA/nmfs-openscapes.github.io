@@ -19,6 +19,8 @@ bibliography: references.bib
 
 ## Presentations for NMFS Leadership
 
+[NOAA IEA Face-to-Face](https://docs.google.com/presentation/d/1NdV8FwMbfx7X6BSXk-wnKl32g4-RmeI5oEYsyTrgb6Y/edit?usp=sharing), Lowndes. May 2, 2023. NCEAS, UCSB.
+
 [NWFSC Leadership](https://docs.google.com/presentation/d/10THOXdsrarRddusrMQWaWSPJBg6ziHj3ew8bsGEaei0/edit?usp=sharing), Holmes, Williams, Scalliet. January 4, 2023.
 
 [NMFS Science Board](https://docs.google.com/presentation/d/1ck1bZwjdbez-niH3yjC675a7xbsIDJ4xxJ6GLekZsno/edit#slide=id.g1138e626848_0_861), Holmes, Lowndes. June 8, 2022.
