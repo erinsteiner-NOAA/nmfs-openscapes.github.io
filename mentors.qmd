@@ -23,17 +23,15 @@ FY23 NMFS Openscapes Mentor group
 
 # Mentor Community Activities 
 
-## 2023
+## FY24 Oct 2023 to Sept 2024
 
-We have proposed a 3-year collaboration with NOAA Fisheries modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework) to start in Fall 2023. Continuity is important for  community building and skillbuilding and we have been supporting mentors in early 2023 to maintain momentum.   
-
-Below are Openscapes' past, ongoing, and planned activities to support inclusive open practices in research at NOAA Fisheries.
+FY24 will kick off our formal Openscapes mentors cohort for the fiscal year. The  mentors cohort will help guide the Open Data/Open Science/Reproducibility efforts for their FMC and act as mentors for Champions cohorts. The mentors cohort will act as the "Open Science leadership team" for NOAA Fisheries. Participation is year-long and will include leadership and mentoring training. The mentor group is modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework).   
 
 ### October-December 2023: NMFS Mentors Cohort!
 
 Through facilitation and practical training for mentoring, teaching, and coaching, Openscapes will help NMFS mentors strengthen skills and strategies to support colleagues with diverse comfort levels with software and coding, while also strengthening relationships across centers/offices. Through this, mentors will identify and co-create on common resources and activities – such as code or databases for identical tasks or community developed standard practices – so there is less reinventing at each center. 
 
-We will meet remotely twice monthly and also collaborate asynchronously (e.g. Google Chat, GitHub). Mentors will also focus on teaching NMFS colleagues through Champions cohorts and Community Skills Workshops, with support from Openscapes staff. 
+The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohort (facilated bi-weekly group meetings) during which Openscapes will guide the mentor cohort in discussing the needs and challenges for adoption of Open Science in NMFS and to develop actions to take. The facilitated meeting are vitual and twice monthly. Mentors will also collaborate asynchronously (e.g. Google Chat, GitHub). During the fall session, mentors will also learn and practice coaching and mentoring skills in preparation for the winter Champions cohorts.
 
 #### Proposed timeline & topics  
 
@@ -46,17 +44,10 @@ Agendas are accessible to Cohort participants in our Cohort Google Folder (link 
 Date | Cohort Call Topics          |       Seaside Chats topics
 ----| ----------------------|--------------------------------
 10/17 | 1. Openscapes mindset: better science for future us | Reflect together on what needs/challenges are common
-10/31 | 2. Common needs; documentation | Prepare for GitHub & Quarto Clinics
+10/31 | 2. Publishing and project management | Prepare for GitHub & Quarto Clinics
 11/14 | 3. GitHub & Quarto Clinics: project management & automated reports | Decide what mentor cohort will work on and what you'll work on
 11/28 | 4. Team culture and data strategies for future us | Prepare for Champions cohorts in Feb-March
 12/12 | 5. Open communities and coding strategies for future us | Coordinate & engage participants for Champions cohorts
-
-
-### July-September 2023: Engagement, planning, and coordinating
-
-This will be a kick-off, engagement, planning, and coordinating stage. We will use our standing bi-weekly meetings we have with the NMFS mentors to plan the year and identify strategic priorities and engagement.
-
-We will reach out to center/office managers with a welcoming description of our project and ask them to share a nomination form with people in their group who are working with Open Science practices and interested in peer-teaching and collaborating within NMFS. Opting in is a critical first investment from both managers and staff; this work will have clear expectations (e.g. 8 hours/month) and be in alignment with their jobs. Mentors will initially build from the pool of NMFS staff that have participated in Openscapes Champions cohorts in 2020-2022. We aim for 3 total mentors from each science center and regional office each year. 
 
 We will also start identifying cross-center roadblocks that mentors can collaborate on throughout the next years. 
 
