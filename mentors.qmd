@@ -1,10 +1,8 @@
 ---
-title: "NMFS Openscapes Mentors"
+title: "NMFS Openscapes Mentor Community"
 ---
 
-The Openscapes Mentor group is a cross-NMFS mentor community. Each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff.
-
-Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each others experiences and learn new skills together.  
+Starting in 2021, we have been growing an informal cross-NMFS mentor community; each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each others experiences and learn new skills together.  
 
 ## Mentors
 
@@ -23,12 +21,11 @@ FY23 NMFS Openscapes Mentor group
 * SWFSC: Kevin Stierhoff
 * OST: Christine Stawitz, Kathryn Doering, Erin Steiner
 
-
-# Mentor Cohort Activities 
+# Mentor Community Activities 
 
 ## 2023
 
-We have proposed a 3-year collaboration with NOAA Fisheries modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework) that would start in July 2023. Continuity is important for  community building and skillbuilding and we have been supporting mentors in early 2023 to maintain momentum.   
+We have proposed a 3-year collaboration with NOAA Fisheries modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework) to start in Fall 2023. Continuity is important for  community building and skillbuilding and we have been supporting mentors in early 2023 to maintain momentum.   
 
 Below are Openscapes' past, ongoing, and planned activities to support inclusive open practices in research at NOAA Fisheries.
 
