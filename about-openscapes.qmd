@@ -6,13 +6,17 @@ title: "Openscapes"
 
 Our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows our approach to engaging, empowering, and amplifying research communities in open data science --- how we describe kinder, better science in less time.
 
-![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel-eea.png)
+[![Figure 1 from Robinson & Lowndes 2022. The Openscapes Flywheel builds momentum as a culture change engine as We engage a Future Us mindset through welcoming and creating space and place, we Empower a learning culture by investing in learning and trust, and working openly, and we amplify open leaders by leveraging common open data science workflows, skills and tools and inspire broader scientific culture change. And the Flywheel turns again.](images/openscapes-flywheel-v2023.06.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Welcome; Create space and place; Invest in learning and trust; Work openly; Leverage common workflows, skills, and tools; and Inspire. There are three phases that categorize these Flywheel points. Phase 1: Engage = Welcome; Create space and place; Phase 2: Empower = Invest in learning and trust; Work openly; Phase 3: Amplify = Leverage common workflows, skills, and tools; and Inspire."}](https://openscapes.org)
 
-Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang & Benjamin S. Halpern. 2019. [Our path to better science in less time using open data science tools](https://nature.com/articles/s41559-017-0160). Nature Ecology and Evolution 1, 0160. 
 
-Julia S. Stewart Lowndes. 2019. [Open software mean kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science). Scientific American.
+Robinson & Lowndes 2022. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/). Preprint
 
-Julia S. Stewart Lowndes et al. 2019. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) Nature Career Column. 31 October 2019
+Lowndes. 2019. [Open software mean kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science). Scientific American.
+
+Lowndes et al. 2019. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) Nature Career Column. 31 October 2019
+
+Lowndes et al. 2017. [Our path to better science in less time using open data science tools](https://nature.com/articles/s41559-017-0160). Nature Ecology and Evolution 1, 0160. 
+
 
 ## Learn more
 
