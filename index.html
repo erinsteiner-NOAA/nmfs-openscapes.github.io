@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.340">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -58,7 +58,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -77,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
       <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Home</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -92,9 +93,9 @@ ul.task-list li input[type="checkbox"] {
       <img src="./images/logo-transparent-crop.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://openscapes.org" title="Openscapes.org" class="quarto-navigation-tool px-1" aria-label="Openscapes.org"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/nmfs-openscapes" title="NMFS Openscapes" class="quarto-navigation-tool px-1" aria-label="NMFS Openscapes"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/openscapes" title="Openscapes Twitter" class="quarto-navigation-tool px-1" aria-label="Openscapes Twitter"><i class="bi bi-twitter"></i></a>
+    <a href="https://openscapes.org" rel="" title="Openscapes.org" class="quarto-navigation-tool px-1" aria-label="Openscapes.org"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/nmfs-openscapes" rel="" title="NMFS Openscapes" class="quarto-navigation-tool px-1" aria-label="NMFS Openscapes"><i class="bi bi-github"></i></a>
+    <a href="https://fosstodon.org/@openscapes" rel="" title="Openscapes Mastodon" class="quarto-navigation-tool px-1" aria-label="Openscapes Mastodon"><i class="bi bi-mastodon"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
@@ -121,6 +122,12 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="./about-nmfs-openscapes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About NMFS Openscapes</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./mentors.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentors Community</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -172,12 +179,6 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mentors.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Mentors Community</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./media.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Presentations and Media</span></a>
   </div>
@@ -200,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">NMFS Openscapes</h1>
-<p class="subtitle lead">Training in reproducible science for NOAA Fisheries</p>
+<p class="subtitle lead">Implementing the NOAA Fisheries Data Strategy for reproducible and open science</p>
 </div>
 
 
@@ -215,26 +216,34 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<style>
-@media screen and (max-width: 1000px) {   .div1 { display: none; } }
-</style>
-<div class="div1" style="float: right; width: 350px">
-<a class="twitter-timeline" data-width="250" data-height="600" href="https://twitter.com/openscapes?ref_src=twsrc%5Etfw">Tweets by openscapes</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 <p><img src="images/fall2022openscapes.png" alt="hands together" style="float:right;width:30%;"></p>
-<p>NMFS Openscapes is a multi-year colloboration between NOAA Fisheries science centers and <a href="https://www.openscapes.org/">Openscapes</a> to provide team-based training in reproducible scientific workflows and platforms. We have had 10 Openscapes cohorts in 2020-2022 (400 staff! [40 staff per cohort]), involving all six NOAA science centers plus two regional offices.</p>
-<p><a href="https://www.openscapes.org/">Openscapes</a> champions open practices in environmental science to help uncover data-driven solutions faster. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. Please connect with us on Twitter <a href="https://twitter.com/openscapes"><strong>@openscapes</strong></a> or join <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform"><strong>our newsletter</strong></a>.</p>
+<p>NMFS Openscapes is a multi-year colloboration between NOAA Fisheries science centers and <a href="https://www.openscapes.org/">Openscapes</a> to provide team-based training in reproducible scientific workflows and platforms. We have had 10 Openscapes cohorts in 2020-2022 (400 staff! [40 staff per cohort]), involving all six science centers plus two regional offices.</p>
+<!---
+[Openscapes](https://www.openscapes.org/) champions open practices in environmental science to help uncover data-driven solutions faster. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science for future us. 
+--->
 <h2 class="anchored">
 NMFS Openscapes FY24
 </h2>
-<p><strong>October-December 2023</strong>: Openscapes Mentors FY24 Program Kick-off! See <a href="https://nmfs-openscapes.github.io/mentors.html#october-december-2023-nmfs-mentors-cohort">mentor page</a> for details.</p>
+<p>As part of <a href="https://www.youtube.com/watch?v=ZA6jwLyuIRU"><strong>NOAA Fisheries Data Vision: Open Data and Open Science</strong></a>, over three years, we plan to work with all six NMFS science centers, five regional offices, and the Office of Science and Technology. We plan to start with six centers/offices in Year 1, and add three more each year. We have three synergistic Objectives:</p>
+<ol type="1">
+<li><strong>Develop a mentor community</strong>. We will develop a community of mentors across NMFS centers/offices. With Openscapes facilitation these mentors will learn and work together to strengthen Open Science skills at their center/office, co-create reusable resources for NMFS-specific scientific products, and empower their colleagues via local activities and trainings.</li>
+<li><strong>Empower scientific teams</strong>. We will support center/office researchers to become high-functioning teams as they transition to Open Science and reproducible scientific workflows through the Openscapes’ Champions and Pathways to Open Science programs and other Community Skill Building Workshops. Cohorts can include teams from the same or across centers/offices, or be topic specific (like stock assessment reports) to strengthen relationships and shared practices.</li>
+<li><strong>Amplify Open Science leaders</strong>. We will amplify NMFS Open Science leaders and leverage synergistic efforts within NMFS and NOAA. We will focus on opportunities and recognition for staff who support their colleagues, which is critical to upskilling the NMFS workforce, deepening leadership capacity within NOAA, and connecting to the global Open Science movement.</li>
+</ol>
+<p>Please see the <a href="mentors.html#october-december-2023-nmfs-mentors-cohort"><strong>Mentors Community Page</strong></a> for more details about our Fall schedule.</p>
+<p><strong>October-December 2023</strong>: Openscapes Mentors FY24 Program Kick-off! See <a href="https://nmfs-openscapes.github.io/">mentor page</a> for details.</p>
 <p><strong>January-March 2024</strong>: Openscapes Champions cohorts. We are planning three simultaneous cohorts at science centers and regional offices much like in fall 2022.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/nmfs-openscapes-gantt.png" class="img-fluid figure-img" style="width:60.0%" alt="A screenshot of a spreadsheet gantt chart table showing Years 1-3 quarters as columns and Objectives as rows."></p>
+<figcaption class="figure-caption">Gantt chart of NMFS Openscapes three objectives by quarter and year</figcaption>
+</figure>
+</div>
 <section id="nmfs-openscapes-fy23" class="level2 minimal">
 <h2 class="minimal anchored" data-anchor-id="nmfs-openscapes-fy23">NMFS Openscapes FY23</h2>
 <p><strong>July-September 2023</strong>: Kick-off, engagement, planning, and coordinating for FY24. Bi-weekly meetings with the <a href="https://nmfs-openscapes.github.io/mentors.html#mentors">FY23 NMFS mentors</a> to plan the year and identify strategic priorities and engagement.</p>
-<p><strong>January-June 2023</strong> Bi-weekly mentor coach training with Tara Robertson, a DEI consultant and leadership coach who has <a href="https://www.openscapes.org/blog/2021/05/27/tara-robertson/">worked with Openscapes since 2021</a>. We are learning - how to ask open-ended questions, how to listen - that make us better equipped as mentors, teachers, and leaders.</p>
-<p><strong>October-December 2022</strong> Four Champions cohorts (150+ staff)! See the <a href="https://nmfs-openscapes.github.io/cohorts/#section">cohort webpage</a>.</p>
+<p><strong>January-June 2023</strong> Bi-weekly mentor coach training with Tara Robertson, a DEI consultant and leadership coach who has <a href="https://www.openscapes.org/blog/2021/05/27/tara-robertson/">worked with Openscapes since 2021</a>. We are learning - how to ask open-ended questions, how to listen - that make us better equipped as mentors, teachers, and leaders. Blog post: <a href="https://openscapes.org/blog/2023-05-17-mentor-coach/">How coaching skills have made us better open data science mentors</a>.</p>
+<p><strong>October-December 2022</strong> Four Champions cohorts (150+ staff)! See the <a href="https://nmfs-openscapes.github.io/cohorts/#section">Champions Cohort page</a>.</p>
 
 
 </section>
