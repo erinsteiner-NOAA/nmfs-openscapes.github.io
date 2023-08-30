@@ -26,9 +26,9 @@ website:
       - icon: github
         href: https://github.com/nmfs-openscapes
         text: "NMFS Openscapes"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+      - icon: mastodon
+        href: https://fosstodon.org/@openscapes
+        text: "Openscapes Mastodon"         
 
     style: "docked"
     search: true
@@ -40,6 +40,8 @@ website:
         text: About Openscapes
       - href: about-nmfs-openscapes.qmd
         text: About NMFS Openscapes
+      - href: mentors.qmd
+        text: Mentors Community
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
@@ -49,8 +51,6 @@ website:
           - cohorts/NMFS-fall2021.md 
           - cohorts/FDD-fall2021.md
           - cohorts/NEFSC-spr2020.md
-      - href: mentors.qmd
-        text: Mentors Community
       - href: media.qmd
         text: Presentations and Media
       - contact.qmd
