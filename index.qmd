@@ -5,19 +5,11 @@ page-layout: full
 toc: false
 ---
 
-<style>
-@media screen and (max-width: 1000px) {   .div1 { display: none; } }
-</style>
-<div style="float: right; width: 350px"  class="div1">
-<a class="twitter-timeline" data-width="250" data-height="600" href="https://twitter.com/openscapes?ref_src=twsrc%5Etfw">Tweets by openscapes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-
 <img src="images/fall2022openscapes.png" alt="hands together" style="float:right;width:30%;">
 
 NMFS Openscapes is a multi-year colloboration between NOAA Fisheries science centers and [Openscapes](https://www.openscapes.org/) to provide team-based training in reproducible scientific workflows and platforms. We have had 10 Openscapes cohorts in 2020-2022 (400 staff! [40 staff per cohort]), involving all six NOAA science centers plus two regional offices.
 
-[Openscapes](https://www.openscapes.org/) champions open practices in environmental science to help uncover data-driven solutions faster. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. Please connect with us on Twitter [**\@openscapes**](https://twitter.com/openscapes) or join [**our newsletter**](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform).
+[Openscapes](https://www.openscapes.org/) champions open practices in environmental science to help uncover data-driven solutions faster. With tools specifically created to meet modern demands for collaborative data science, we help create a positive open culture to enable better science in less time. Please connect with us on Mastodon [**\@openscapes@fosstodon.org**](https://fosstodon.org/@openscapes) or join [**our newsletter**](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform).
 
 <h2>NMFS Openscapes FY24</h2>
 

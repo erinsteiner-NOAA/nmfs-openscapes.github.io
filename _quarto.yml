@@ -26,9 +26,9 @@ website:
       - icon: github
         href: https://github.com/nmfs-openscapes
         text: "NMFS Openscapes"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+      - icon: mastodon
+        href: https://fosstodon.org/@openscapes
+        text: "Openscapes Mastodon"         
 
     style: "docked"
     search: true
