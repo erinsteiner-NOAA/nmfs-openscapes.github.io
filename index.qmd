@@ -28,7 +28,7 @@ Please see the [**Mentors Community Page**](mentors.htmlhttp://localhost:7495/me
 
 **January-March 2024**: Openscapes Champions cohorts. We are planning three simultaneous cohorts at science centers and regional offices much like in fall 2022.
 
-![Gantt chart of NMFS Openscapes three objectives by quarter and year](images/nmfs-openscapes-gantt.png){fig-alt="A screenshot of a spreadsheet gantt chart table showing Years 1-3 quarters as columns and Objectives as rows." fig-align="center" width="60%"}
+![Gantt chart of NMFS Openscapes three objectives by quarter and year](images/nmfs-openscapes-gantt-annotated.png){fig-alt="A screenshot of a spreadsheet gantt chart table showing Years 1-3 quarters as columns and Objectives as rows." fig-align="center" width="60%"}
 
 ## NMFS Openscapes FY23 {.minimal}
 
