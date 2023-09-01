@@ -42,11 +42,11 @@ The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohor
 - **Times: 10:00 - 11:30am PT / 1:00 - 2:30 pm ET**
 - **Location: Remotely, via Google Meet**
 
-#### Cohort Calls 
+#### Mentor Calls 
 
-**Cohort Calls** are when we convene as a group to learn and plan. Agendas are accessible to Cohort participants in our Cohort Google Folder (link upcoming); they are also an archive of our live notetaking. 
+**Mentor Calls** are when we convene as a group to learn and plan. Agendas are accessible to Cohort participants in our Cohort Google Folder (link upcoming); they are also an archive of our live notetaking. 
 
-Date | Cohort Call Topics          
+Date | Mentor Call Topics          
 ----| ----------------------
 10/17 | 1. Openscapes mindset for mentors: What does it mean to be a mentor? What does Open Science at NMFS mean?
 10/31 | 2. Common needs across the FMC: Reflect together on what needs/challenges are common across FMC for Open Science adoption? <!---(Pathways like but focused)--->
@@ -56,7 +56,7 @@ Date | Cohort Call Topics
 
 #### Seaside Chats
 
-**Seaside Chats** are for small-group coworking in weeks alternating between Cohort Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note multiple FMCs can have Seaside chats together. Organize yourselves in a way that works for you.
+**Seaside Chats** are for small-group coworking in weeks alternating between Mentor Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note multiple FMCs can have Seaside chats together. Organize yourselves in a way that works for you.
 
 Date | Seaside Chat topics
 ----| ----------------------
