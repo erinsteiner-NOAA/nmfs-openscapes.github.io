@@ -22,9 +22,9 @@ As part of [**NOAA Fisheries Data Vision: Open Data and Open Science**](https://
 2.  **Empower scientific teams**. We will support center/office researchers to become high-functioning teams as they transition to Open Science and reproducible scientific workflows through the Openscapes' Champions and Pathways to Open Science programs and other Community Skill Building Workshops. Cohorts can include teams from the same or across centers/offices, or be topic specific (like stock assessment reports) to strengthen relationships and shared practices.
 3.  **Amplify Open Science leaders**. We will amplify NMFS Open Science leaders and leverage synergistic efforts within NMFS and NOAA. We will focus on opportunities and recognition for staff who support their colleagues, which is critical to upskilling the NMFS workforce, deepening leadership capacity within NOAA, and connecting to the global Open Science movement.
 
-Please see the [**Mentors Community Page**](mentors.htmlhttp://localhost:7495/mentors.html#mentor-community-activities) for more details about our Fall schedule.
+Please see the [**Mentors Community Page**](https://nmfs-openscapes.github.io/mentors.html#mentor-community-activities) for more details about our Fall schedule.
 
-**October-December 2023**: Openscapes Mentors FY24 Program Kick-off! See [mentor page](https://nmfs-openscapes.github.io/) for details.
+**October-December 2023**: Openscapes Mentors FY24 Program Kick-off! See [mentor page](https://nmfs-openscapes.github.io/mentors.html) for details.
 
 **January-March 2024**: Openscapes Champions cohorts. We are planning three simultaneous cohorts at science centers and regional offices much like in fall 2022.
 
